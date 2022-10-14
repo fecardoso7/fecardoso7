@@ -1,5 +1,5 @@
 ![logo](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)
-<h1 align="center">Hello World! 👋👋</h1>
+<h1 align="center">Hello World! 👋</h1>
 <h3 align="center">Um Desenvolvedor Web em Construção.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
