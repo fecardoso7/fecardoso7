@@ -8,16 +8,16 @@
 
 - 🔭 No momento sou estudante na [Trybe](https://www.betrybe.com)
 
-- 🌱 Atualmente estou aprendendo **HTML & CSS**
+- 🌱 Atualmente estou aprendendo **HTML, CSS & JavaScript**
 
 - 👨‍💻 Aqui você encontrá alguns dos meus projetos pessoais feitos durante o curso!
 
-- 📫 Como chegar até mim **felipecardoso1530@gmail.com**
+- 📫 Como chegar até mim: **felipecardoso1530@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/felipe-cardoso-810473182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe cardoso" height="30" width="40" /></a>
-<a href="https://instagram.com/luizf_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luizf_7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipe-cardoso-810473182/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe cardoso" height="30" width="40" target="_blank" /></a>
+<a href="https://instagram.com/luizf_7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luizf_7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
