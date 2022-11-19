@@ -25,6 +25,6 @@
 
 ## Estatística:
 
-<p>&nbsp;<img align="right" height="150em"  src="https://github-readme-stats.vercel.app/api?username=fecardoso7&show_icons=true&locale=en&theme=tokyonight" alt="fecardoso7" /></p>
+<img align="right" height="150em"  src="https://github-readme-stats.vercel.app/api?username=fecardoso7&show_icons=true&locale=en&theme=tokyonight" alt="fecardoso7" />
 
-<p><img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fecardoso7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fecardoso7" /></p>
+<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fecardoso7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fecardoso7" />
