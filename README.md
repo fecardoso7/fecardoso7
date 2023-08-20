@@ -8,7 +8,7 @@
 
 - 🔭 No momento sou estudante na [Trybe](https://www.betrybe.com)
 
-- 🌱 Atualmente estou aprendendo **HTML, CSS & JavaScript**
+- 🌱 Atualmente estou aprendendo **Docker, SQL & Node.JS**
 
 - 👨‍💻 Aqui você encontrá alguns dos meus projetos pessoais feitos durante o curso!
 
