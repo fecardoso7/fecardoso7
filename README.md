@@ -5,6 +5,9 @@
 Me chamo Felipe, sou apaixonado por tecnologia e desenvolvimento de software. Atualmente curso **Engenharia de Software na Universidade Anhanguera** e sou **Full-stack Developer formado pela Trybe**, com foco atual em **Front-end**. Também compartilho aprendizados e experiências através das minhas redes sociais.
 
 <p align="left">
+    <a href="https://linkedin.com/in/fecardosodev">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
     <a href="https://github.com/fecardoso7?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
