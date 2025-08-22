@@ -32,7 +32,7 @@
 
 ---
 
-## ⚡ Tecnologias
+<h2 align="center">⚡ Tecnologias</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 Estatísticas
+<h2 align="center">📊 Estatísticas</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fecardoso7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecardoso7&layout=compact&langs_count=7&theme=tokyonight"/>
