@@ -48,11 +48,23 @@ Apaixonado por criar projetos, aprender novas tecnologias e compartilhar conheci
 <br/>
 <br/>
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fecardozo7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecardozo7&layout=compact&langs_count=7&theme=tokyonight"/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
 
 
