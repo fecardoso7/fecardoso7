@@ -50,4 +50,6 @@ Apaixonado por criar projetos, aprender novas tecnologias e compartilhar conheci
   <img src="https://github-readme-stats.vercel.app/api?username=fecardoso7&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecardoso7&layout=compact&theme=radical" height="150"/>
 </p>
-<img src="https://streak-stats.demolab.com?user=fecardoso7&theme=tokyonight&hide_border=true" height="180em"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fecardoso7&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
