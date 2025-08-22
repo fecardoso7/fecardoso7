@@ -1,9 +1,9 @@
 # <h1 align="center">👨🏻‍💻 Felipe Cardoso</h1>
 <h3 align="center">Desenvolvedor FullStack </h3>
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Felipe, sou apaixonado por tecnologia e desenvolvimento de software. Atualmente curso **Engenharia de Software na Universidade Anhanguera** e sou **Full-stack Developer formado pela Trybe**, com foco atual em **Front-end**. Também compartilho aprendizados e experiências através das minhas redes sociais.
+Sou estudante de **Engenharia de Software na Anhanguera** e formado em **FullStack Developer pela Trybe**.  
+Atualmente focado em **Front-end**, mas com experiência também em **Back-end**.  
+Apaixonado por criar projetos, aprender novas tecnologias e compartilhar conhecimento 🚀
 
 <p align="left">
     <a href="https://linkedin.com/in/fecardosodev">
