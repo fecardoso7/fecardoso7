@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Felipe Cardoso</h1>
 <h3 align="center">Desenvolvedor FullStack</h3>
 
-<p align="center">
+<p>
 Sou **Engenheiro de Software em formação** e **Desenvolvedor FullStack formado pela Trybe**, com experiência prática em **projetos web modernos**.  
 Tenho sólida base em **JavaScript, TypeScript, React, Node.js e bancos de dados**, além de vivência em **metodologias ágeis** e boas práticas de versionamento.  
 
