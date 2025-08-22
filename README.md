@@ -2,9 +2,13 @@
 <h3 align="center">Desenvolvedor FullStack</h3>
 
 <p align="center">
-Sou estudante de <b>Engenharia de Software na Anhanguera</b> e formado em <b>FullStack Developer pela Trybe</b>.  
-Atualmente focado em <b>Front-end</b>, mas com experiência também em <b>Back-end</b>.  
-Apaixonado por criar projetos, aprender novas tecnologias e compartilhar conhecimento 🚀
+Sou **Engenheiro de Software em formação** e **Desenvolvedor FullStack formado pela Trybe**, com experiência prática em **projetos web modernos**.  
+Tenho sólida base em **JavaScript, TypeScript, React, Node.js e bancos de dados**, além de vivência em **metodologias ágeis** e boas práticas de versionamento.  
+
+Durante minha jornada já atuei tanto em **front-end** quanto em **back-end**, o que me permite compreender o ciclo completo de desenvolvimento de aplicações.  
+Sou movido por **desafios**, gosto de aprender novas tecnologias e acredito em escrever código limpo, escalável e de impacto real.  
+
+Atualmente busco oportunidades para **colaborar em projetos inovadores**, seja como **desenvolvedor front, back ou fullstack**, sempre com o objetivo de entregar soluções que unam **qualidade, performance e experiência do usuário**.
 </p>
 
 ---
