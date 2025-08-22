@@ -1,4 +1,5 @@
-# 👨🏻‍💻 Felipe Cardoso
+# <h1 align="center">👨🏻‍💻 Felipe Cardoso</h1>
+<h3 align="center">Desenvolvedor FullStack </h3>
 
 **`Desenvolvedor FullStack`**
 
@@ -8,6 +9,9 @@ Me chamo Felipe, sou apaixonado por tecnologia e desenvolvimento de software. At
     <a href="https://linkedin.com/in/fecardosodev">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+      <a href="mailto:felipecardoso1530@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
     <a href="https://github.com/fecardoso7?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
