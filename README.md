@@ -3,7 +3,7 @@
 
 ---
 
-### 📫 How to reach me felipecardoso1530@gmail.com
+### - 📫 How to reach me felipecardoso1530@gmail.com
 
 ---
 
