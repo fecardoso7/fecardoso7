@@ -4,6 +4,9 @@
 ---
 
 - 📫 How to reach me felipecardoso1530@gmail.com
+-  🏆 Certifications achieved:
+
+     ✅ 1,500-hour Web Development Course [Certificate at Trybe Programming School](https://www.credential.net/3733ee6e-fb55-4e4c-828c-0dec448768d1#acc.RYAPIsC9)
 
 ---
 
