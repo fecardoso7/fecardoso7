@@ -5,12 +5,6 @@
 
 ### 📫 How to reach me felipecardoso1530@gmail.com
 
-<p align="center">
-  <a href="https://linkedin.com/in/fecardosodev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### ⚡ Languages and Tools:
@@ -38,4 +32,12 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fecardoso7&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/fecardosodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
