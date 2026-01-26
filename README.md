@@ -14,6 +14,10 @@
         src="https://img.shields.io/badge/javascript es6+-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"
       />
       <img
+        alt="Python"
+        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+      />
+      <img
         alt="HTML5"
         src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
       />
