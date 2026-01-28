@@ -7,7 +7,7 @@
 - 🌱 I'm currently deepening my knowledge at [Anhembi Morumbi](https://portal.anhembi.br/)
 -  🏆 Certifications achieved:
 
-     ✅ 1,500-hour Web Development Course [Certificate at Trybe Programming School](https://www.credential.net/3733ee6e-fb55-4e4c-828c-0dec448768d1#acc.RYAPIsC9)
+     ✅ 1,500-hour Web Development Course [Certificate at Trybe Programming School](https://www.credential.net/da840837-3f5f-48e7-9699-ee1d1c506deb#acc.WSxNhFvD)
 
 ---
 
