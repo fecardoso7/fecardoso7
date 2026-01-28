@@ -1,5 +1,4 @@
 <h1 align="center">👨‍💻 Felipe Cardoso</h1>
-<h3 align="center">🙋🏻‍♀️ I’m a Full Stack Web Developer</h3>
 
 ---
 
