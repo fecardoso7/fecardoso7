@@ -1,5 +1,6 @@
 <h1 align="center">👨‍💻 Felipe Cardoso</h1>
 <h3 align="center">🙋🏻‍♀️ I’m a Full Stack Web Developer</h3>
+
 ---
 
 - 📫 How to reach me felipecardoso1530@gmail.com
@@ -92,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fecardoso7&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="[https://streak-stats.demolab.com?user=fecardoso7&theme=tokyonight&hide_border=true](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fecardoso7&theme=dark-minimalist" alt="GitHub Streak)" height="180em"/>
 </p>
 
 ---
