@@ -1,5 +1,6 @@
 <h1 align="center">👨‍💻 Felipe Cardoso</h1>
 <h3 align="center">🙋🏻‍♀️ I’m a Full Stack Web Developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F3BF7&width=435&lines=I%E2%80%99m+a+Full+Stack+Web+Developer." alt="Typing SVG" /></a>
 
 ---
 
