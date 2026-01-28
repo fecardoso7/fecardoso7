@@ -85,7 +85,7 @@
 
 ---
 
-### 📋 Info from my GitHub
+### <h4 align="center"> 📋 Info from my GitHub: </h4> 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fecardoso7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
