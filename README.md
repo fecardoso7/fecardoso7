@@ -1,6 +1,5 @@
 <h1 align="center">👨‍💻 Felipe Cardoso</h1>
-<h3 align="center">🙋🏻‍♀️ I'm a Web Developer</h3>
-
+<h3 align="center">🙋🏻‍♀️ I’m a Full Stack Web Developer</h3>
 ---
 
 - 📫 How to reach me felipecardoso1530@gmail.com
