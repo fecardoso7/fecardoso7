@@ -93,10 +93,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fecardoso7&theme=dracula" alt="GitHub Streak" height="180em"/></a>
 </p>
 
-##<p align="center">
-##     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fecardoso7&theme=dracula" alt="GitHub Streak" height="180em"/></a>
-##</p>
-
 ---
 
 <p align="center">
