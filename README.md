@@ -92,8 +92,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecardoso7&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fecardoso7)](https://git.io/streak-stats)
-
 <p align="center">
      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fecardoso7&theme=dark-minimalist" alt="GitHub Streak" height="180em"/></a>
 </p>
