@@ -1,5 +1,8 @@
 <h1 align="center">👨‍💻 Felipe Cardoso</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4597D2&width=435&separator=%3C&lines=console.log(%22Hello+World%22);" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4597D2&width=435&separator=%3C&lines=console.log(%22Hello+World%22);" />
+</div>
+
 ---
 
 - 📫 How to reach me felipecardoso1530@gmail.com
