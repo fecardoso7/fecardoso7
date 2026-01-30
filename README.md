@@ -16,9 +16,9 @@
         alt="JavaScript"
         src="https://img.shields.io/badge/javascript es6+-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"
       />
-      <img
-        alt="Python"
-        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+     <img
+        alt="Typescript"
+        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
       />
       <img
         alt="HTML5"
@@ -29,13 +29,21 @@
         src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"
       />
       <img
-        alt="Typescript"
-        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      />
-      <img
         alt="React"
         className="tool"
         src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black"
+      />
+     <img
+        alt="Bootstrap"
+        src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117"
+      />
+     <img
+        alt="TailwindCSS"
+        src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      />
+     <img
+        alt="Python"
+        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
       />
       <img
         alt="Redux"
@@ -52,9 +60,6 @@
       <img
         alt="Testing Library"
         src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"
-      <img
-        alt="Bootstrap"
-        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
       />
       <img
         alt="Git"
@@ -79,6 +84,10 @@
       <img
         alt="Node.js"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+      />
+     <img
+        alt="Linux"
+        src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"
       />
 </div>
 
