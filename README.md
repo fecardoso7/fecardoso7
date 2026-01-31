@@ -116,9 +116,10 @@
   </a>
   <a href="https://fecardoso7.vercel.app/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
-      height="27"
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      height="28"
     />
   </a>
 </p>
+
 
