@@ -100,7 +100,7 @@
 <p align="center">
   
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fecardoso7&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://your-vercel-app.vercel.app/api?username=fecardoso7&show_icons=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fecardoso7&count_private=true"/>
   
 </p>
 
