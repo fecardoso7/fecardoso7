@@ -99,9 +99,9 @@
 
 <p align="center">
   
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fecardoso7&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fecardoso7&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecardoso7&layout=compact&langs_count=7&theme=dracula"/> -->
-  <img height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=fecardoso7&theme=radical"/>
+  <img height="160em" src="https://github-readme-streak-stats-eight.vercel.app/?user=fecardoso7&theme=radical"/>
   
 </p>
 
