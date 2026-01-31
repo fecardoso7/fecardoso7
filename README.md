@@ -109,6 +109,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/fecardosodev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="28"
+    />
+  </a>
+  <a href="https://fecardoso7.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
+      height="27"
+    />
   </a>
 </p>
+
