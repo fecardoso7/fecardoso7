@@ -100,7 +100,8 @@
 <p align="center">
   
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fecardoso7&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecardoso7&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecardoso7&theme=dracula7&layout=compact"/>
+  
 </p>
 
 <p align="center">
