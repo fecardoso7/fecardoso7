@@ -97,9 +97,11 @@
 
 ### <h4 align="center"> 📋 Info from my GitHub: </h4> 
 
+<p align="center">
 GitHub Streak + Stats
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=fecardoso7&theme=dark"
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username= fecardoso7&theme=github_dark"
+</p>
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fecardoso7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
