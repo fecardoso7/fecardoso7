@@ -103,9 +103,8 @@
 </p>
 
 <p align="center">
-GitHub Streak + Stats
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=fecardoso7&theme=dark"
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username= fecardoso7&theme=github_dark"
+<img height="160em" src="https://github-readme-streak-stats-eight.vercel.app/?user=fecardoso7&theme=dark"
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username= fecardoso7&theme=github_dark"
 </p>
 
 ---
