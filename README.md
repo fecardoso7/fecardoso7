@@ -106,7 +106,7 @@
 
 <p align="center">
 <img height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=fecardoso7&theme=dracula"
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username= fecardoso7&theme=github_dracula"
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fecardoso7&theme=github_dracula"
 </p>
 
 ---
