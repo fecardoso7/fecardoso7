@@ -103,8 +103,8 @@
 </p>
 
 <p align="center">
-<img height="190em" src="https://github-readme-streak-stats-eight.vercel.app/?user=fecardoso7&theme=city-lights"
-<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username= fecardoso7&theme=github_city-lights"
+<img height="190em" src="https://github-readme-streak-stats-eight.vercel.app/?user=fecardoso7&theme=cshadow-brown"
+<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username= fecardoso7&theme=github_shadow-brown"
 </p>
 
 ---
