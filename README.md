@@ -32,6 +32,7 @@
 
 ---
 
+<section>
 <p align="center">
   <a href="https://linkedin.com/in/fecardosodev" target="_blank">
     <img 
@@ -46,5 +47,6 @@
     />
   </a>
 </p>
+</section>
 
 
