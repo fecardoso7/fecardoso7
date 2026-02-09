@@ -12,7 +12,7 @@
 
 ---
 
-### <h3 align="center"> ⚡ Languages and Tools: </h3>
+### <h4 align="center"> ⚡ Languages and Tools: </h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 
 ---
 
-### <h3 align="center"> 📋 Info from my GitHub: </h3> 
+### <h4 align="center"> 📋 Info from my GitHub: </h4> 
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fecardoso7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
