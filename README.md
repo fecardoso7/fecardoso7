@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE38F6&width=435&separator=%3C&lines=console.log(%22Hello+World%22);" />
-</div>
+</p>
 
 ---
 
